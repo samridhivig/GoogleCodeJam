@@ -1,3 +1,4 @@
+# Algorithm:
 # count the number of Is in first half of matrix : N1
 # count the number of Is in second half of matrix : N2
 # answer = | N1 - N2 |
